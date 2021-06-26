@@ -209,7 +209,8 @@ body {
   font-size: 1rem;
   color: hsl(270, 7%, 64%);
   height: 100%;
-  width: 30rem;
+  width: 100%;
+  max-width: 30rem;
 }
 .content-right h1 {
   font-size: 3rem;
