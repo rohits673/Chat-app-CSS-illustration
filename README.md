@@ -19,12 +19,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Chat app CSS illustration](./screenshot/Screenshot 2021-06-27 at 01-01-29 Frontend Mentor Chat app CSS illustration.png)
+![Chat app CSS illustration](https://raw.githubusercontent.com/rohits673/Chat-app-CSS-illustration/master/screenshot/Screenshot%202021-06-27%20at%2001-01-29%20Frontend%20Mentor%20Chat%20app%20CSS%20illustration.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [](https://github.io/rohits673/Chat-app-CSS-illustration)
 
 ### Built with
 
