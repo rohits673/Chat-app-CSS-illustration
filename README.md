@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Preview Site](https://github.io/rohits673/Chat-app-CSS-illustration)
+- Live Site URL: [Preview Site](https://rohits673.github.io/Chat-app-CSS-illustration)
 
 ### Built with
 
