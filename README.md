@@ -35,5 +35,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Rohit Kumar](https://www.your-site.com)
+- Website - [Coming Soon](#)
 - Frontend Mentor - [@rohits673](https://www.frontendmentor.io/profile/yourusername)
